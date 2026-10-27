@@ -1,0 +1,10 @@
+{
+  "records": 45211,
+  "subscriptions": 5289,
+  "response_rate": 0.11698480458295547,
+  "unknown_categories": {
+    "contact": 13020,
+    "month": 0,
+    "poutcome": 36959
+  }
+}
